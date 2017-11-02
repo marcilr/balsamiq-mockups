@@ -1,0 +1,59 @@
+syntax.txt
+Created Thu Nov  2 12:37:58 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Help documentation
+
+
+Add Mockups
+  Ready to create wireframes?  Click the New Mockup button.  (upper right)
+  Use the drop down menu to upload a file from your desktop
+
+Edit Mockups
+  Click the Edit button to edit wireframes in this project. (upper right)
+  Use the drop down menu to download, clone, archive,
+  or delete the project.
+
+Project Views
+  View this project in Prototype view for click-through prototypes,
+  or select the icons for Grid, Story and Sitemap views.
+  (4 dots toward upper right)
+
+Edit Project Name
+  Click the project name to rename the project.  You can also click
+  the project description to change that too.
+  (top left)
+
+View Site History
+  Click the View Site History link to see a stream of all updates
+  to this project, such as Mockup edits and comments.
+  (upper left)
+
+View Project Assets (Assets link - upper right)
+  Upload files you want to re-use across this project.
+
+View Project Members (Project Members link - upper right)
+  Communicate with and invite project members.
+
+Set Access (Access link - upper right)
+  Change access control settings to be private or public.
+
+Need more help?
+  You can view the full myBalsamiq documentation here[1]
+  or contact us via our community forum[2] to ask a question
+  or give us feedback. We're here for you.
+
+
+Links
+=====
+[1] myBalsamiq documentation here
+    https://docs.balsamiq.com/mybalsamiq/
+
+[2] via our community forum
+    https://forums.balsamiq.com/
+
+
+
+
+
