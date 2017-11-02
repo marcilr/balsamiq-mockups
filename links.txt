@@ -13,3 +13,6 @@ https://www.mybalsamiq.com/login
 
 Help documentation
 https://docs.balsamiq.com/mybalsamiq/
+
+Help Table of Contents
+https://docs.balsamiq.com/mybalsamiq/
