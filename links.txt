@@ -19,3 +19,7 @@ https://docs.balsamiq.com/mybalsamiq/
 
 Help Table of Contents
 https://docs.balsamiq.com/mybalsamiq/
+
+myBalsamiq Project Page
+https://docs.balsamiq.com/mybalsamiq/project/
+
